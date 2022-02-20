@@ -1,3 +1,3 @@
 # ToDoFullStack
 
-A To Do app which included registration 
+A To Do app which includes registration 
